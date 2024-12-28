@@ -29,5 +29,6 @@ Este projeto realiza a análise e previsão de tendências climáticas utilizand
 
 - **Orquestração**: Apache Airflow
 
+-------------------------------------------------------------------------------------------------
 
 **MIT License ©**
