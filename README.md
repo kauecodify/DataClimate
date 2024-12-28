@@ -19,7 +19,7 @@ Este projeto realiza a análise e previsão de tendências climáticas utilizand
 
 ## Tecnologias Utilizadas
 
-- **Processamento de Dados**: Python, pandas, PySpark
+- **Processamento de Dados**: Python, koalas, pandas, PySpark
 
 - **Armazenamento**: AWS S3 / Local CSV
 
@@ -29,15 +29,5 @@ Este projeto realiza a análise e previsão de tendências climáticas utilizand
 
 - **Orquestração**: Apache Airflow
 
-
-## Como Executar
-
-1. Execute o data_cleaning.py para limpeza de dados
-
-2. Execute analysis_visualization.py para visualização das métricas
-
-3. Execute mode_training.py para previsões futuras
-
-   
 
 **MIT License ©**
