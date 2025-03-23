@@ -31,4 +31,7 @@ Este projeto realiza a análise e previsão de tendências climáticas utilizand
 
 -------------------------------------------------------------------------------------------------
 
+
+![imagem_2025-03-23_081339056-removebg-preview](https://github.com/user-attachments/assets/3220c207-b0d9-499a-80f1-289cae25f3ab)
+
 **MIT License ©**
